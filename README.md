@@ -1,2 +1,3 @@
-# Governance
-Resources and centralization of running the org.
+# Org
+
+We'll keep records here for the pmndrs dev collective.
