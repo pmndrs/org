@@ -1,6 +1,6 @@
 # Design System
 
-**Status: Draft**
+**Status: Active**
 
 ## Motivations
 
