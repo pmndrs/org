@@ -4,7 +4,7 @@
 
 ## 1. Mission
 
-Poimandres is an open source developer collective for creative technology and developer tooling. We build software that help developers express themselves artistically and make traditionally difficult spaces more accessible. We sustain our projects through shared effort, mutual support, and trust.
+Poimandres is an open source developer collective for creative technology and developer tooling. We make things for people who make things. Our projects are sustained through shared effort, mutual support, and trust.
 
 ## 2. Core Principles
 
