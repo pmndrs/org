@@ -12,6 +12,7 @@ Pmndrs has always had a strong design language but over the years as individual 
 - Provide a shared design system for packages, docs, and websites.
 - Make the pmndrs design language usable by AI agents.
 - Preserve a cohesive collective identity while allowing individual projects to have their own character.
+- Explore shader integration in design systems.
 
 ## Scope
 
