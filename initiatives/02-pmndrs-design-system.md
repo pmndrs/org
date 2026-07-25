@@ -1,4 +1,4 @@
-# Design System
+# Pmndrs Design System
 
 **Status: Active**
 
