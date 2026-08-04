@@ -14,7 +14,7 @@ A modern interactive math kernel needs to excel in real-time environments meanin
 - Portable. Efficiently interoperates with WebGL, WebGPU, Wasm, Three.js, etc., so that the handoff between math kernel and framework is simple.
 - Minimal. A lean, tree-shakable kernel containing only the primitives needed to build interactive algorithms.
 - Data-oriented. Operates on caller-owned data through data-in, data-out functions without owning the data lifecycle.
-- Readability. It is important the core math operations readable such that even if the code is not written by a person they can reasonably review it.
+- Readable. It is important the core math operations readable such that even if the code is not written by a person they can reasonably review it.
 - Foundations for an interactive math ecosystem.
 
 ## Scope
