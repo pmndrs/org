@@ -8,13 +8,13 @@ Poimandres is an open source developer collective for creative technology and de
 
 ## 2. Core Principles
 
-**Simplicity.**  Software should be simple to understand and use with clear models and elegant interfaces. The API and philosophy should fit in a single readme and explained in three steps or less.
+**Simple.**  Software should be simple to understand and use with clear models and elegant interfaces. The API and philosophy should fit in a single readme and explained in three steps or less.
 
-**Pragmatism.** Projects should solve demonstrated problems for a meaningful community of developers, avoiding speculative projects.
+**Pragmatic.** Projects should solve demonstrated problems for a meaningful community of developers, avoiding speculative projects.
 
-**Stability.** Software should earn long term trust. Libraries refine over time, but aim to be stable, achieved primarily through being both simple and practical.
+**Stable.** Software should earn long term trust. Libraries refine over time, but aim to be stable, achieved primarily through being both simple and practical.
 
-**Quality**. Projects should meet a high standard of craft. This includes implementation, documentation, design, and the overall developer experience.
+**Open.** Software should be free to use, understand, and improve. Projects are built in public with paths for anyone to contribute.
 
 ## 3. Membership
 
