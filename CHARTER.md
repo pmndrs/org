@@ -6,7 +6,7 @@
 
 Poimandres is an open source developer collective for creative technology and developer tooling. We make things for people who make things because we believe code can be a craft, a creative medium, and a source of joy. Our projects are sustained through shared effort, mutual support, and trust.
 
-## 2. Core Principles
+## 2. Principles
 
 **Simple.**  Software should be simple to understand and use with clear models and elegant interfaces. The API and philosophy should fit in a single readme and explained in three steps or less.
 
@@ -27,7 +27,7 @@ There is no strict definition of a working role, but common examples include pro
 
 </details>
 
-## 4. Decision-Making
+## 4. Decisions
 
 Decisions should be made openly and as close as possible to the work they affect. Project leads and maintainers retain autonomy over their projects, including project status.
 
