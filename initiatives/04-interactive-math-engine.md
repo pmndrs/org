@@ -44,4 +44,5 @@ Excluded:
 - Previous art:
     - [https://github.com/isaac-mason/mathcat](https://github.com/isaac-mason/mathcat)
     - [https://github.com/toji/gl-matrix](https://github.com/toji/gl-matrix)
-    - https://github.com/toji/gl-matrixhttps://github.com/greggman/wgpu-matrix
+    - https://github.com/toji/gl-matrix
+    - https://github.com/greggman/wgpu-matrix
