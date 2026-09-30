@@ -4,11 +4,9 @@
 
 ## Motivations
 
-Camera is one of the core parts to 3D.
-Everyone ends up reinventing the saem abstractions that are slightly different.
-There is not a good toolkit to pull from with optimized operations to build our own abstractions.
-In the AI world it is more important than ever to have a low level kit, but we also want opinionated abstractions for getting going.
-There is also just years of great tech out there from Unity to Unreal that has not made it properly to JS.
+Cameras are a core part of 3D, yet developers often end up reinventing the same abstractions in slightly different ways. There is no shared toolkit of optimized camera operations to draw from when building our own abstractions.
+
+As AI takes on more of the coding, having a low level toolkit to build on is more important than ever. We also want opinionated abstractions that make it easy to get started. There are years of great camera technology in engines like Unity and Unreal that have yet to make their way properly into JavaScript, and this toolkit is an opportunity to bring those ideas to the web.
 
 ## Goals
 
