@@ -4,13 +4,13 @@
 
 ## Motivations
 
-Cameras are a core part of 3D, yet developers often end up reinventing the same abstractions in slightly different ways. There is no shared toolkit of optimized camera operations to draw from when building our own abstractions.
+Cameras are a core part of 3D, with years of development and refinement that have largely been out of reach on the web. A low-level, composable toolkit lets developers build their own abstractions without reinventing basic components. Opinionated abstractions make it easy to get started, drawing on familiar camera systems from Unity, Unreal, Godot, and other engines.
 
-As AI takes on more of the coding, having a low level toolkit to build on is more important than ever. We also want opinionated abstractions that make it easy to get started. There are years of great camera technology in engines like Unity and Unreal that have yet to make their way properly into JavaScript, and this toolkit is an opportunity to bring those ideas to the web.
+Following an onion-layer model lets us support a JavaScript camera ecosystem that takes both foundational tools and opinionated abstractions seriously.
 
 ## Goals
 
-- Data-oriented toolkit. Low level camera operations that developers can combine to build their own abstractions.
+- Data-oriented toolkit. Low-level camera operations that developers can combine to build their own abstractions.
 - Useful abstractions. Built-in abstractions for common camera patterns, built from the same core.
 - Framework independent. A standalone core with integrations such as React Three Fiber for authoring.
 - Virtual camera systems. Full virtual camera support such as rigs, blending, tracking, switching, etc.
