@@ -1,6 +1,6 @@
 # Camera Toolkit
 
-**Status: Draft**
+**Status: Active**
 
 ## Motivations
 
