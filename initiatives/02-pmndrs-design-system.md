@@ -1,7 +1,7 @@
 # Pmndrs Design System
 
 **Status: Active**<br>
-**Lead dev: C**
+**Lead dev: C, Antoine Bernier**
 
 ## Motivations
 
@@ -34,6 +34,6 @@ Excluded:
 ## Resources
 
 - Reviewers and users of the design system.
-    - Implementing the design system in existing packages.
+  - Implementing the design system in existing packages.
 - Agent skill support
 - Support for designing and deploying a package to npm.
