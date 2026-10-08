@@ -1,6 +1,7 @@
 # Canvas Text Rendering
 
-**Status: Active**
+**Status: Active**<br>
+**Lead dev: Justin Walsh**
 
 ## Motivations
 
@@ -45,7 +46,6 @@ Excluded:
 
 ## Resources
 
-- Lead dev: Justin Walsh
 - Reviewers and users with concrete product use cases
 - Documentation written.
 - Examples and benchmarks.

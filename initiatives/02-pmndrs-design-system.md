@@ -1,6 +1,7 @@
 # Pmndrs Design System
 
-**Status: Active**
+**Status: Active**<br>
+**Lead dev: C**
 
 ## Motivations
 
@@ -32,7 +33,6 @@ Excluded:
 
 ## Resources
 
-- Lead: C
 - Reviewers and users of the design system.
     - Implementing the design system in existing packages.
 - Agent skill support

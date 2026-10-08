@@ -1,6 +1,7 @@
 # Interactive Math Engine
 
-**Status: Active**
+**Status: Active**<br>
+**Lead dev: Isaac Mason**
 
 ## Motivation
 
@@ -38,7 +39,6 @@ Excluded:
 
 ## Resources
 
-- Lead: Isaac Mason
 - Outreach with examples
 - A nice playground for the math visualizations
 - Previous art:

@@ -1,12 +1,13 @@
 # React Three Fiber v10
 
-**Status: Active**
+**Status: Active**<br>
+**Lead dev: Dennis Smolek**
 
 ## Motivations
 
 R3F has remained stable for years, but two major changes have happened since v9 was released.
 
-1. WebGPU was released and along with it the new WebGPURenderer and TSL for Three. 
+1. WebGPU was released and along with it the new WebGPURenderer and TSL for Three.
 2. AI agents have been widely adopted for coding.
 
 This has changed the landscape of the 3D web drastically. R3F v9 remains lean enough to accommodate a basic WebGPURenderer workflow but the limits of this are clear. In addition R3F and its ecosystem, including Drei, was built as first movers making decisions that aren’t as ergonomic in the contemporary dev world. We now have the benefit of seeing common user patterns.
@@ -34,9 +35,8 @@ R3F and its APIs are core to a lot of pmndrs causing the scope to reach wider th
 
 ## Resources
 
-The bottleneck is not dev time but actually everything around it: reviewers, demos, docs, outreach, etc. 
+The bottleneck is not dev time but actually everything around it: reviewers, demos, docs, outreach, etc.
 
-- Lead dev is Dennis.
 - Reviewers for alpha, beta, RC.
 - Demos to show new features.
 - People to write and review docs.

@@ -1,6 +1,7 @@
 # Camera Toolkit
 
-**Status: Active**
+**Status: Active**<br>
+**Lead dev: Łukasz Kwas**
 
 ## Motivations
 
@@ -40,7 +41,6 @@ Excluded:
 
 ## Resources
 
-- Lead: Łukasz Kwas
 - Reviewers and users with concrete camera use cases.
 - Docs writing and review support.
 - Examples and a playground for exploring camera behaviors and visualizing shots.
