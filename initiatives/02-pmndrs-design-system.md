@@ -24,6 +24,7 @@ Included:
 - A waterfall visual style guide.
 - AI skill (style guide in md format).
 - Branding package with design system that can be imported.
+- Color system.
 
 Excluded:
 
