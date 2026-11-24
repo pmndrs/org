@@ -6,4 +6,6 @@ Poimandres is an open source developer collective for creative technology and de
 
 Read the collective's draft [Charter](./CHARTER.md) to learn about our principles, decision making and more.
 
+Read the collective's [policies](./policies/) for membership, ownership, repository tiers, security and AI use.
+
 Read the collective's [initiatives](./initiatives/) to learn about our current projects
