@@ -16,6 +16,8 @@ Poimandres is an open source developer collective for creative technology and de
 
 **Quality.** Projects should meet a high standard of craft. This includes implementation, documentation, design, and the overall developer experience.
 
+**Open.** Software should be free to use, understand, and improve. Projects are built in public with paths for anyone to contribute.
+
 ## 3. How We Work
 
 **Stewardship.** Members look after projects and resources on behalf of the collective, not as owners. Roles are temporary and can be handed off.
