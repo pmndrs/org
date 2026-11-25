@@ -46,6 +46,7 @@ Techniques
 - **Denoiser.** `denoiser`OIDN-based, split into core + engine packages. Track OIDN 3 once it is released.
 - **VSM.**  `@pmndrs/vsm` Virtual shadow maps: high-resolution shadows across large scenes, allocating shadow map pages only where they are needed.
 - **GPUTex.** `@pmndrs/GPUTex`Runtime texture compression on the GPU, in the vein of spark.js: encode textures into GPU-compressed formats at load time instead of shipping pre-baked files.
+- **VDB** `@pmndrs/vdb` Runtime handling and rendering of volumetric data on the CPU and GPU. Build, edit, and render VDBs in realtime. 
 - **Probe-based lighting,** such as reflection probes, sharing probe layouts with GI where that fits.
 
 And more
